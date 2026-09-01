@@ -96,8 +96,8 @@ Retraining of the selected model on train+validation, walk-forward forecast on t
 ## ▶️ How to Run
 
 ```bash
-git clone https://github.com/elenacascone/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/elenacascone/<Blood-Glucose-Forecasting>.git
+cd <Blood-Glucose-Forecasting>
 pip install -r requirements.txt
 jupyter notebook notebook/Diabet_Analysis.ipynb
 ```
