@@ -96,8 +96,8 @@ Riaddestramento del modello selezionato su train+validation, previsione walk-for
 ## ▶️ Come eseguire il progetto
 
 ```bash
-git clone https://github.com/elenacascone/<nome-repo>.git
-cd <nome-repo>
+git clone https://github.com/elenacascone/<Blood-Glucose-Forecasting>.git
+cd <Blood-Glucose-Forecasting>
 pip install -r requirements.txt
 jupyter notebook notebook/Diabet_Analysis.ipynb
 ```
