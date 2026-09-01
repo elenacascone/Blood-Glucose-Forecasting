@@ -84,7 +84,7 @@ Retraining of the selected model on train+validation, walk-forward forecast on t
 ## 📂 Repository Structure
 
 ```
-├── notebook/
+├── notebook ENG/
 │   └── Diabet_Analysis ENG.ipynb
 │   └── Diabet_Analysis ENG.pdf
 ├── data/
