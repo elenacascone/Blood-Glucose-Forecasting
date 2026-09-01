@@ -85,11 +85,10 @@ Retraining of the selected model on train+validation, walk-forward forecast on t
 
 ```
 ├── notebook/
-│   └── Diabet_Analysis.ipynb
+│   └── Diabet_Analysis ENG.ipynb
+│   └── Diabet_Analysis ENG.pdf
 ├── data/
 │   └── (BrisT1D dataset — see Dataset section)
-├── images/
-│   └── (exported plots for the README)
 ├── requirements.txt
 └── README.md
 ```
