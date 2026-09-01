@@ -85,11 +85,10 @@ Riaddestramento del modello selezionato su train+validation, previsione walk-for
 
 ```
 ├── notebook/
-│   └── Diabet_Analysis.ipynb
+│   └── Diabet_Analysis ITA.ipynb
+│   └── Diabet_Analysis ITA.pdf
 ├── data/
 │   └── (dataset BrisT1D — vedi sezione Dataset)
-├── images/
-│   └── (grafici esportati per il README)
 ├── requirements.txt
 └── README.md
 ```
