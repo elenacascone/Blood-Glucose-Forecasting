@@ -84,7 +84,7 @@ Riaddestramento del modello selezionato su train+validation, previsione walk-for
 ## 📂 Struttura del repository
 
 ```
-├── notebook/
+├── notebook ITA/
 │   └── Diabet_Analysis ITA.ipynb
 │   └── Diabet_Analysis ITA.pdf
 ├── data/
